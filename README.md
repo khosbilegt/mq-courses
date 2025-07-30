@@ -7,12 +7,19 @@ This repository serves as a structured archive of my academic coursework during 
 Each unit is organized under its unit code and title. Inside each unit folder, subfolders are divided by assessment type or learning activity.
 
 📁 courseworks/
+
 ├── COMP6010/
+
 │ ├── practical1/
+
 │ ├── practical2/
+
 ├── COMP6012/
+
 │ ├── practical1/
+
 │ ├── practical2/
+
 ...
 
 ## Content
