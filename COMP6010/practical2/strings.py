@@ -7,7 +7,7 @@ print ("Khosbilegt Bilegsaikhan")
 print("Khosbilegt\nBilegsaikhan")
 # Method 2
 print("Khosbilegt")
-print("nBilegsaikhan")
+print("Bilegsaikhan")
 
 print("Welcome\nto\nFoundations of Computer Programming")
 
